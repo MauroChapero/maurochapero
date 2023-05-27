@@ -8,7 +8,7 @@ const Naveen = {
     architecture: ["microservices"],
 };
 ```
-# A passionate Full-Stack Web Developer and Salesforce Admin with a specialization in Apex.
+# A passionate Full-Stack Web Developer and Salesforce Admin with a specialization in Apex from Buenos Aires, Argentina.
 
 ## Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/mauro-nahuel-chapero/) 🚀
