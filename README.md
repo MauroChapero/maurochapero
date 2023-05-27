@@ -5,6 +5,7 @@ const Naveen = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS, Java, Apex],
     tools: [React, Node, Express, Spring, Salesforce],
+    methodologies: ["SCRUM"],
     architecture: ["microservices"],
 };
 ```
