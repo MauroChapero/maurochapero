@@ -1,7 +1,7 @@
 ### Hi I'm Mauro 👋
 ![me](https://github.com/MauroChapero/maurochapero/assets/89491320/5d9d436d-a903-4ce6-876c-136b394ec97b)
 ```js
-const Naveen = {
+const AboutMe = {
     pronouns: "He" | "Him",
     code: [JavaScript, HTML, CSS, Java, Apex],
     tools: [React, Node, Express, Spring, Salesforce],
