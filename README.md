@@ -3,13 +3,13 @@
 ```js
 const Naveen = {
     pronouns: "He" | "Him",
-    code: [Javascript, HTML, CSS, Java, Apex],
+    code: [JavaScript, HTML, CSS, Java, Apex],
     tools: [React, Node, Express, Spring, Salesforce],
     methodologies: ["SCRUM"],
     architecture: ["microservices"],
 };
 ```
-# A passionate Full-Stack Web Developer and Salesforce Admin with a specialization in Apex from Buenos Aires, Argentina.
+# A passionate Fullstack Web Developer and Salesforce Admin with a specialization in Apex from Buenos Aires, Argentina.
 
 ## Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/mauro-nahuel-chapero/) 🚀
